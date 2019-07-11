@@ -2,7 +2,7 @@
   "name": "light-bootstrap-dashboard-react",
   "version": "1.3.0",
   "private": true,
-  "homepage": "https://cladiusiv.github.io/webtest1/test3/",
+  "homepage": "https://cladiusiv.github.io/webtest1/",
   "dependencies": {
     "bootstrap": "3.3.7",
     "chalk": "^2.4.2",
